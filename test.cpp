@@ -1,10 +1,15 @@
 private Player = player;
 private Monstar = mon;
 
+public Item = item;
+public Wepon =  wepon;
+public Armor = armor;
 
-void true()
-{
-	player = mon;
+
+
+void Set() {
+	Player GetItem(new Primari("ƒEƒbƒh‚»"becose
+		getitem.lost));
 }
 
 
